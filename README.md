@@ -1,2 +1,2 @@
-# t-rex-2
-jueguito de mi t-rex
+# trex-maestra-kerem
+batch tarde 6
